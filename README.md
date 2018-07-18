@@ -1,5 +1,5 @@
 # Crude-Monte-Carlo--CMC
-Software implementation in Python that enables the evaluation of the reliability of a network by using Crude Monte Carlo (CMC)
+Software implementation in Python that evaluate of the reliability of a network by using Crude Monte Carlo (CMC)
 
 
 # How to run
